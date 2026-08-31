@@ -1,0 +1,1 @@
+- [WebGL fallback](webgl-fallback.md) — browser previews may not expose WebGL; 3D canvas apps should detect it before renderer creation and keep a playable fallback.
